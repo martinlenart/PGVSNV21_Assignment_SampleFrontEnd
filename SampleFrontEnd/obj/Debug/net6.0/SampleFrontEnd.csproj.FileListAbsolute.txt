@@ -1,0 +1,32 @@
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.deps.json
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.runtimeconfig.json
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.dll
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.pdb
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.csproj.AssemblyReference.cache
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.AssemblyInfoInputs.cache
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.AssemblyInfo.cs
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.csproj.CoreCompileInputs.cache
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.dll
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/refint/SampleFrontEnd.dll
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.pdb
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.genruntimeconfig.cache
+/Users/Martin/Projects/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/ref/SampleFrontEnd.dll
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.deps.json
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.runtimeconfig.json
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.dll
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/SampleFrontEnd.pdb
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.csproj.AssemblyReference.cache
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.AssemblyInfoInputs.cache
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.AssemblyInfo.cs
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.csproj.CoreCompileInputs.cache
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.csproj.CopyComplete
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.dll
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/refint/SampleFrontEnd.dll
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.pdb
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/SampleFrontEnd.genruntimeconfig.cache
+/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/obj/Debug/net6.0/ref/SampleFrontEnd.dll

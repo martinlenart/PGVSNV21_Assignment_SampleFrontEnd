@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bduQKh7lcNI7IQooWhLa2yZC3tYgiSHpf8NIt3X3jk0xzgNNv5ldErNXP4SihMz1KgmC1xylkMUXAYPz+EUsfQ==",
+  "success": true,
+  "projectFilePath": "/Users/Martin/Development/Visual Studio 2019 Mac/Projects/Advanced OOP April 2022/GroupWork/SampleFrontEnd/SampleFrontEnd/SampleFrontEnd.csproj",
+  "expectedPackageFiles": [
+    "/Users/Martin/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
